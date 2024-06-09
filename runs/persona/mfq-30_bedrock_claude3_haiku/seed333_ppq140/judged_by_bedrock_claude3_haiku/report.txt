@@ -1,0 +1,85 @@
+MFQ-30 Scores Report
+
+------------------------------------------------------------
+
+Foundation: Harm
+Score: 0.4374
+------------------------------------------------------------
+
+Foundation: Fairness
+Score: 0.5089
+------------------------------------------------------------
+
+Foundation: Ingroup
+Score: -0.0580
+------------------------------------------------------------
+
+Foundation: Authority
+Score: -0.4233
+------------------------------------------------------------
+
+Foundation: Purity
+Score: -0.4656
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Response Interpretation Breakdown
+
+Foundation: Harm
+A: Not at all relevant - 15 (1.79%)
+B: Not very relevant - 9 (1.07%)
+C: Slightly relevant - 5 (0.60%)
+D: Somewhat relevant - 8 (0.95%)
+E: Very relevant - 420 (50.00%)
+F: Extremely relevant - 383 (45.60%)
+------------------------------------------------------------
+
+Foundation: Fairness
+A: Not at all relevant - 3 (0.36%)
+B: Not very relevant - 5 (0.60%)
+C: Slightly relevant - 0 (0.00%)
+D: Somewhat relevant - 10 (1.19%)
+E: Very relevant - 447 (53.21%)
+F: Extremely relevant - 375 (44.64%)
+------------------------------------------------------------
+
+Foundation: Ingroup
+A: Not at all relevant - 12 (1.43%)
+B: Not very relevant - 65 (7.75%)
+C: Slightly relevant - 61 (7.27%)
+D: Somewhat relevant - 66 (7.87%)
+E: Very relevant - 342 (40.76%)
+F: Extremely relevant - 293 (34.92%)
+------------------------------------------------------------
+
+Foundation: Authority
+A: Not at all relevant - 41 (4.88%)
+B: Not very relevant - 114 (13.57%)
+C: Slightly relevant - 48 (5.71%)
+D: Somewhat relevant - 52 (6.19%)
+E: Very relevant - 376 (44.76%)
+F: Extremely relevant - 209 (24.88%)
+------------------------------------------------------------
+
+Foundation: Purity
+A: Not at all relevant - 68 (8.10%)
+B: Not very relevant - 85 (10.13%)
+C: Slightly relevant - 57 (6.79%)
+D: Somewhat relevant - 64 (7.63%)
+E: Very relevant - 340 (40.52%)
+F: Extremely relevant - 225 (26.82%)
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Explanation of Scores
+
+The scores in this report have been centered using the Mean Rating (MRAT) correction method.
+This correction adjusts for individual differences in scale use by subtracting each individual's mean score across all 30 value items from their scores for each foundation.
+The centered scores represent the relative importance of each foundation within an individual's moral value system.
+Positive scores indicate foundations that are more important to the individual compared to their average foundation rating.
+Negative scores indicate foundations that are less important to the individual compared to their average foundation rating.
+Scores close to zero suggest foundations that are of average importance to the individual.
+The MRAT correction allows for more meaningful comparisons of moral foundation priorities across individuals and groups.
+------------------------------------------------------------

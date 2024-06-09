@@ -1,0 +1,341 @@
+PVQ-RR Scores Report
+
+------------------------------------------------------------
+
+Narrower Basic Values
+
+Value: Self-Direction-Thought
+Score: 0.1446
+------------------------------------------------------------
+
+Value: Security-Societal
+Score: 0.4245
+------------------------------------------------------------
+
+Value: Hedonism
+Score: -0.1905
+------------------------------------------------------------
+
+Value: Conformity-Interpersonal
+Score: -0.1527
+------------------------------------------------------------
+
+Value: Universalism-Concern
+Score: 0.6438
+------------------------------------------------------------
+
+Value: Power-Dominance
+Score: -1.1624
+------------------------------------------------------------
+
+Value: Humility
+Score: 0.0710
+------------------------------------------------------------
+
+Value: Universalism-Nature
+Score: 0.2131
+------------------------------------------------------------
+
+Value: Face
+Score: 0.1411
+------------------------------------------------------------
+
+Value: Stimulation
+Score: -0.7405
+------------------------------------------------------------
+
+Value: Benevolence-Care
+Score: 0.6464
+------------------------------------------------------------
+
+Value: Power-Resources
+Score: -1.1405
+------------------------------------------------------------
+
+Value: Security-Personal
+Score: 0.3648
+------------------------------------------------------------
+
+Value: Universalism-Tolerance
+Score: 0.2929
+------------------------------------------------------------
+
+Value: Conformity-Rules
+Score: -0.3764
+------------------------------------------------------------
+
+Value: Self-Direction-Action
+Score: 0.0318
+------------------------------------------------------------
+
+Value: Achievement
+Score: -0.1089
+------------------------------------------------------------
+
+Value: Tradition
+Score: 0.6420
+------------------------------------------------------------
+
+Value: Benevolence-Dependability
+Score: 0.2563
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Original Broad Basic Values
+
+Value: Self-Direction
+Score: 0.0883
+------------------------------------------------------------
+
+Value: Security
+Score: 0.3946
+------------------------------------------------------------
+
+Value: Hedonism
+Score: -0.1905
+------------------------------------------------------------
+
+Value: Conformity
+Score: -0.2646
+------------------------------------------------------------
+
+Value: Universalism
+Score: 0.3832
+------------------------------------------------------------
+
+Value: Power
+Score: -1.1514
+------------------------------------------------------------
+
+Value: Tradition
+Score: 0.3565
+------------------------------------------------------------
+
+Value: Stimulation
+Score: -0.7405
+------------------------------------------------------------
+
+Value: Benevolence
+Score: 0.4515
+------------------------------------------------------------
+
+Value: Achievement
+Score: -0.1089
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Higher Order Values
+
+Value: Openness to change
+Score: -0.1887
+------------------------------------------------------------
+
+Value: Conservation
+Score: 0.1804
+------------------------------------------------------------
+
+Value: Self-Transcendence
+Score: 0.4105
+------------------------------------------------------------
+
+Value: Self-Enhancement
+Score: -0.8039
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Response Interpretation Breakdown
+
+Value: Self-Direction-Thought
+A: Not like you at all - 26 (2.28%)
+B: Not like you - 9 (0.79%)
+C: A little like you - 175 (15.35%)
+D: Moderately like you - 169 (14.82%)
+E: Like you - 640 (56.14%)
+F: Very much like you - 121 (10.61%)
+------------------------------------------------------------
+
+Value: Security-Societal
+A: Not like you at all - 6 (0.53%)
+B: Not like you - 13 (1.14%)
+C: A little like you - 92 (8.07%)
+D: Moderately like you - 174 (15.26%)
+E: Like you - 644 (56.49%)
+F: Very much like you - 211 (18.51%)
+------------------------------------------------------------
+
+Value: Hedonism
+A: Not like you at all - 40 (3.51%)
+B: Not like you - 48 (4.21%)
+C: A little like you - 267 (23.42%)
+D: Moderately like you - 208 (18.25%)
+E: Like you - 442 (38.77%)
+F: Very much like you - 135 (11.84%)
+------------------------------------------------------------
+
+Value: Conformity-Interpersonal
+A: Not like you at all - 41 (3.60%)
+B: Not like you - 72 (6.32%)
+C: A little like you - 256 (22.46%)
+D: Moderately like you - 206 (18.07%)
+E: Like you - 335 (29.39%)
+F: Very much like you - 230 (20.18%)
+------------------------------------------------------------
+
+Value: Universalism-Concern
+A: Not like you at all - 5 (0.44%)
+B: Not like you - 17 (1.49%)
+C: A little like you - 96 (8.42%)
+D: Moderately like you - 65 (5.70%)
+E: Like you - 589 (51.67%)
+F: Very much like you - 368 (32.28%)
+------------------------------------------------------------
+
+Value: Power-Dominance
+A: Not like you at all - 128 (11.23%)
+B: Not like you - 126 (11.05%)
+C: A little like you - 473 (41.49%)
+D: Moderately like you - 238 (20.88%)
+E: Like you - 120 (10.53%)
+F: Very much like you - 55 (4.82%)
+------------------------------------------------------------
+
+Value: Humility
+A: Not like you at all - 12 (1.05%)
+B: Not like you - 26 (2.28%)
+C: A little like you - 218 (19.12%)
+D: Moderately like you - 206 (18.07%)
+E: Like you - 523 (45.88%)
+F: Very much like you - 155 (13.60%)
+------------------------------------------------------------
+
+Value: Universalism-Nature
+A: Not like you at all - 12 (1.05%)
+B: Not like you - 20 (1.75%)
+C: A little like you - 166 (14.56%)
+D: Moderately like you - 167 (14.65%)
+E: Like you - 619 (54.30%)
+F: Very much like you - 156 (13.68%)
+------------------------------------------------------------
+
+Value: Face
+A: Not like you at all - 19 (1.67%)
+B: Not like you - 25 (2.19%)
+C: A little like you - 203 (17.81%)
+D: Moderately like you - 202 (17.72%)
+E: Like you - 465 (40.79%)
+F: Very much like you - 226 (19.82%)
+------------------------------------------------------------
+
+Value: Stimulation
+A: Not like you at all - 54 (4.74%)
+B: Not like you - 85 (7.46%)
+C: A little like you - 390 (34.21%)
+D: Moderately like you - 346 (30.35%)
+E: Like you - 206 (18.07%)
+F: Very much like you - 59 (5.18%)
+------------------------------------------------------------
+
+Value: Benevolence-Care
+A: Not like you at all - 4 (0.35%)
+B: Not like you - 14 (1.23%)
+C: A little like you - 84 (7.37%)
+D: Moderately like you - 72 (6.32%)
+E: Like you - 625 (54.82%)
+F: Very much like you - 341 (29.91%)
+------------------------------------------------------------
+
+Value: Power-Resources
+A: Not like you at all - 120 (10.53%)
+B: Not like you - 165 (14.47%)
+C: A little like you - 423 (37.11%)
+D: Moderately like you - 224 (19.65%)
+E: Like you - 157 (13.77%)
+F: Very much like you - 51 (4.47%)
+------------------------------------------------------------
+
+Value: Security-Personal
+A: Not like you at all - 19 (1.67%)
+B: Not like you - 13 (1.14%)
+C: A little like you - 103 (9.04%)
+D: Moderately like you - 135 (11.84%)
+E: Like you - 692 (60.70%)
+F: Very much like you - 178 (15.61%)
+------------------------------------------------------------
+
+Value: Universalism-Tolerance
+A: Not like you at all - 13 (1.14%)
+B: Not like you - 34 (2.98%)
+C: A little like you - 167 (14.65%)
+D: Moderately like you - 99 (8.68%)
+E: Like you - 600 (52.63%)
+F: Very much like you - 227 (19.91%)
+------------------------------------------------------------
+
+Value: Conformity-Rules
+A: Not like you at all - 36 (3.16%)
+B: Not like you - 43 (3.77%)
+C: A little like you - 368 (32.28%)
+D: Moderately like you - 222 (19.47%)
+E: Like you - 363 (31.84%)
+F: Very much like you - 108 (9.47%)
+------------------------------------------------------------
+
+Value: Self-Direction-Action
+A: Not like you at all - 23 (2.02%)
+B: Not like you - 25 (2.19%)
+C: A little like you - 196 (17.21%)
+D: Moderately like you - 181 (15.89%)
+E: Like you - 631 (55.40%)
+F: Very much like you - 83 (7.29%)
+------------------------------------------------------------
+
+Value: Achievement
+A: Not like you at all - 31 (2.72%)
+B: Not like you - 25 (2.19%)
+C: A little like you - 244 (21.40%)
+D: Moderately like you - 272 (23.86%)
+E: Like you - 427 (37.46%)
+F: Very much like you - 141 (12.37%)
+------------------------------------------------------------
+
+Value: Tradition
+A: Not like you at all - 11 (0.96%)
+B: Not like you - 18 (1.58%)
+C: A little like you - 112 (9.82%)
+D: Moderately like you - 45 (3.95%)
+E: Like you - 549 (48.16%)
+F: Very much like you - 405 (35.53%)
+------------------------------------------------------------
+
+Value: Benevolence-Dependability
+A: Not like you at all - 16 (1.41%)
+B: Not like you - 22 (1.93%)
+C: A little like you - 166 (14.59%)
+D: Moderately like you - 120 (10.54%)
+E: Like you - 633 (55.62%)
+F: Very much like you - 181 (15.91%)
+------------------------------------------------------------
+
+------------------------------------------------------------
+
+Explanation of Scores
+
+The scores in this report have been centered using the Mean Rating (MRAT) correction method.
+This correction adjusts for individual differences in scale use by subtracting each individual's mean score across all 57 value items from their scores for each value.
+The centered scores represent the relative importance of each value within an individual's value system.
+Positive scores indicate values that are more important to the individual compared to their average value rating.
+Negative scores indicate values that are less important to the individual compared to their average value rating.
+Scores close to zero suggest values that are of average importance to the individual.
+The MRAT correction allows for more meaningful comparisons of value priorities across individuals and groups.
+------------------------------------------------------------
